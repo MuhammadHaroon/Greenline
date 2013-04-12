@@ -1,13 +1,13 @@
 /*
     Theme Name: Greenline Theme
-  Theme URI: http://www.softstribe.com
-	Description: The Greenline is a Free Responsive child theme especially created for the Genesis Framework.
+    Theme URI: http://www.softstribe.com
+    Description: The Greenline is a Free Responsive child theme especially created for the Genesis Framework.
     Author: Muhammad Haroon
     Author URI: http://www.softstribe.com/
  
     Version: 1.8
  
-    Tags: responsive, blue, greeen, orange, pink, red, gray, white, awesomesauce, one-column, two-columns, three-columns, left-sidebar, right-sidebar, fixed-width, custom-menu, full-width-template, sticky-post, theme-options, threaded-comments.
+    Tags: blue, greeen, orange, pink, red, left-sidebar, right-sidebar, fixed-width, custom-menu, full-width-template, sticky-post, theme-options, threaded-comments, responsive.
  
     Template: genesis
     Template Version: 1.8
@@ -1650,9 +1650,9 @@ body.theme-red {
 }
 
 
-.theme-pink input[type="button"],
-.theme-pink input[type="submit"] {
-    background: #E32B59;
+.theme-red input[type="button"],
+.theme-red input[type="submit"] {
+    background: #BA1900;
 	border: 1px solid #ccc;
 	font-family: 'Droid Serif', serif;
 	cursor: pointer;
